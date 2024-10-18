@@ -1,0 +1,18 @@
+[
+  "function approve(address,uint256)",
+  "function totalSupply() view returns (uint256)",
+  "function transferFrom(address,address,uint256)",
+  "function balances(address) view returns (uint256)",
+  "function maximumFee() view returns (uint256)",
+  "function _totalSupply() view returns (uint256)",
+  "function allowed(address,address) view returns (uint256)",
+  "function balanceOf(address) view returns (uint256)",
+  "function owner() view returns (address)",
+  "function transfer(address,uint256)",
+  "function allowance(address,address) view returns (uint256)",
+  "function basisPointsRate() view returns (uint256)",
+  "function MAX_UINT() view returns (uint256)",
+  "function transferOwnership(address)",
+  "event Approval(address indexed,address indexed,uint256)",
+  "event Transfer(address indexed,address indexed,uint256)"
+]

@@ -1,0 +1,9 @@
+[
+  "function unpause()",
+  "function paused() view returns (bool)",
+  "function pause()",
+  "function owner() view returns (address)",
+  "function transferOwnership(address)",
+  "event Pause()",
+  "event Unpause()"
+]

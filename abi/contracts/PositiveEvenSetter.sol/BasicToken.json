@@ -1,0 +1,12 @@
+[
+  "function totalSupply() view returns (uint256)",
+  "function balances(address) view returns (uint256)",
+  "function maximumFee() view returns (uint256)",
+  "function _totalSupply() view returns (uint256)",
+  "function balanceOf(address) view returns (uint256)",
+  "function owner() view returns (address)",
+  "function transfer(address,uint256)",
+  "function basisPointsRate() view returns (uint256)",
+  "function transferOwnership(address)",
+  "event Transfer(address indexed,address indexed,uint256)"
+]

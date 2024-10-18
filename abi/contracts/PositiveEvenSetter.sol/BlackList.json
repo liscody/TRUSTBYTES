@@ -1,0 +1,21 @@
+[
+  "function addBlackList(address)",
+  "function totalSupply() view returns (uint256)",
+  "function balances(address) view returns (uint256)",
+  "function maximumFee() view returns (uint256)",
+  "function _totalSupply() view returns (uint256)",
+  "function getBlackListStatus(address) view returns (bool)",
+  "function balanceOf(address) view returns (uint256)",
+  "function getOwner() view returns (address)",
+  "function owner() view returns (address)",
+  "function transfer(address,uint256)",
+  "function basisPointsRate() view returns (uint256)",
+  "function isBlackListed(address) view returns (bool)",
+  "function removeBlackList(address)",
+  "function transferOwnership(address)",
+  "function destroyBlackFunds(address)",
+  "event DestroyedBlackFunds(address,uint256)",
+  "event AddedBlackList(address)",
+  "event RemovedBlackList(address)",
+  "event Transfer(address indexed,address indexed,uint256)"
+]
